@@ -1,0 +1,19 @@
+CMPE 277
+Apache Spark App Demo
+
+
+Step 1
+Start zookeeper
+verify zookeeper is running
+run kafka server
+
+start apache server in eclipse
+start spark app on desktop
+
+run mobile application
+check system IP address
+sorry phone got disconnected
+
+light values are streamed from mobile to spark, which returns the word as per the light value - bright, normal, or dim
+
+Thanks.
