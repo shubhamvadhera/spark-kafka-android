@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApacheSparkApp</string>
+    <string name="title">Apache Spark App</string>
+    <string name="desc">Enter url of the REST service:</string>
+    <string name="buttonText">Start Sending Data</string>
+    <string name="pause_sending_data">Pause Sending Data</string>
+</resources>
