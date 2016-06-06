@@ -1,4 +1,4 @@
-#Apache Spark App
+#Apache Spark App - Android
 ##Learning Objective
 
 The purpose of this assignment is to design a Mobile UI (real-time) that is based Apache Spark based middleware. 
